@@ -21,3 +21,4 @@ becca.bio = "This is my bio!"
 becca.job = "Elementary teacher"
 
 puts "I am a #{becca.job}"
+end
