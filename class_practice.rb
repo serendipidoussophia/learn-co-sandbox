@@ -4,7 +4,7 @@ class FacebookProfiles
     @age = age
   end
   
-  def bio = (bio)
+  def bio= (bio)
     @bio = bio
   end
   
