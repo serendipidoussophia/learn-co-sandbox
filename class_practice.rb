@@ -19,5 +19,5 @@ becca = FacebookProfiles.new("Becca", "23")
 becca.bio = "This is my bio!"
 becca.job = "Elementary teacher"
 
-puts "I am a #{becca.job}"
+puts "I am an #{becca.job}."
 end
