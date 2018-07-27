@@ -2,6 +2,7 @@ class FacebookProfiles
   def initialize(name, age)
     @name = name
     @age = age
+    puts "My name is #{name}! I am #{age} years old."
   end
   
   def bio= (bio)
