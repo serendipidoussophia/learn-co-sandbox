@@ -14,7 +14,7 @@ class FacebookProfiles
   
   attr_accessor :job
   
-  puts "My name is #{@name}! I am #{@age} years old."
+  puts "My name is #{name}! I am #{age} years old."
 
 becca = FacebookProfiles.new("Becca", "23")
 becca.bio = "This is my bio!"
